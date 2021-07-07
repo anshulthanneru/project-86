@@ -1,0 +1,24 @@
+body {
+text-align: center;
+background-color: #3EC5E0;
+}
+#heading {
+font-weight: 900;
+font-size: 50px;
+font-variant: small-caps;
+}
+#reasons {
+font-weight: 900;
+font-size: 25px;
+}
+#r1 {
+font-weight: 900;
+font-size: 20px
+}
+#image {
+border-width: 5px;
+border-style: solid;
+border-color: black;
+width: 400px;
+height: 400px;
+}
